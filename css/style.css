@@ -1,0 +1,22 @@
+
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+#info {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background-color: #fff;
+    padding: 5px;
+}
+
+#infoacc {
+    position: absolute;
+    margin-top: -200px;
+    background-color: #fff;
+    padding: 5px;
+}
+
+
